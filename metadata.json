@@ -1,0 +1,5 @@
+{
+  "name": "Editor de Imagens AI para Marketplace",
+  "description": "Um editor de imagens com IA para gerar e refinar fotos de produtos e miniaturas para e-commerce. Use prompts de texto para editar imagens e selecione as proporções comuns de marketplaces.",
+  "requestFramePermissions": []
+}
